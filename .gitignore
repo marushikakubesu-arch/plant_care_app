@@ -1,0 +1,7 @@
+.env
+.env.*
+*.session
+cookies.txt
+*.log
+backup*.json
+plant_care_backup_*.json
